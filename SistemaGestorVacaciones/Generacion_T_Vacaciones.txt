@@ -1,0 +1,124 @@
+﻿Proyecto: Sistema de Gestión de Vacaciones
+
+
+Escuela: “Hogar Naval Stella Maris E.T. 37 Distrito 11”
+
+
+Integrantes Del Grupo: Cores Juan, Delgado Mariano, Hernandez Agustin y Torrico Lucas
+
+
+Curso y División: 6· 1·
+
+
+Turno: Tarde
+
+
+  
+
+
+
+________________
+
+
+
+
+
+
+Sección 1: Objetivo General:
+
+
+Desarrollar una plataforma que permita a  los empleados de una empresa solicitar y gestionar sus vacaciones de manera organizada y eficiente. Además de que también le permitirá a un Administrador rechazar la solicitud del empleado o aceptarla.
+
+
+Sección 2: Roles
+
+
+* Líder: Hernandez Agustin
+* Programador: Delgado Mariano y Torrico Lucas
+* Documentador: Cores Juan
+* Tester:  Hernandez Agustin, Delgado Mariano, Torrico Lucas y Cores Juan
+
+
+
+
+Sección 3: Características de la Plataforma
+
+
+3.1. Selección de Días:
+
+
+La plataforma incluirá una opción  que permitirá a los empleados seleccionar la cantidad de días que desean como vacaciones, con un rango de 1 a 28 días. Esto se realizará mediante una lista desplegable donde podrán elegir la duración.
+
+
+3.2. Calendario Integrado
+
+
+Se implementará un calendario integrado en la plataforma para que los empleados puedan visualizar de manera clara las fechas disponibles y ocupadas para solicitar sus vacaciones. Esto facilitará la organización y evitará conflictos de programación.
+
+
+3.3. Botón de Solicitud:
+
+
+La plataforma contará con un botón de solicitud que permitirá a los empleados enviar su solicitud de vacaciones de manera  sencilla. Una vez enviada la solicitud, el sistema registrará la información y la enviará al administrador  para su revisión y aprobación o negación.
+
+
+3.4. Base de Datos Integrada:
+
+
+Toda la información relacionada con las vacaciones tomadas por los empleados se almacenará en una base de datos interna. Esto garantizará un registro completo  de las solicitudes de vacaciones, lo que facilitará la gestión  de las mismas.
+
+
+3.5 Aprobación/negación de Vacaciones:
+
+
+Ela administrador tendrá el poder de decidir si el empleado está habilitado para tomarse esa vacaciones los días solicitados, de aprobarse la solicitud se pondra en verde, de negarse se pondra en rojo y en caso de no decidir en el tiempo que no se haga nada se quedara en amarillo.
+
+
+Sección 4: Ventajas de la Plataforma
+
+
+- Facilita a los empleados la solicitud y gestión de sus vacaciones de forma  rápida.
+
+
+- Evita problemas de organización al mostrar el calendario de disponibilidad.
+
+
+- Permite un registro  de las solicitudes de vacaciones para un seguimiento adecuado.
+
+
+Sección 5: Pantallas
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+Sección 6: Conclusiones
+
+
+6.1. Resumen de Beneficios:
+Gracias al simple y eficiente diseño de nuestro sistema se proporciona las organización de las vacaciones no se harán tan engorrosas permitiendo así
